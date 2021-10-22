@@ -1,9 +1,9 @@
 [dev]
-dev.testlab.com
+172.31.22.124
 
 [prod]
-prod.testlab.com
+172.31.19.198
 
 [all]
-dev.testlab.com
-prod.testlab.com
+172.31.22.124
+172.31.19.198
